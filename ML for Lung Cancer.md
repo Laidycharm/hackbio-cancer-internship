@@ -14,7 +14,7 @@ In conclusion, the authors tell its readers that in order to effectively diagnos
 ## References
 Li, Y., Wu, X., Yang, P., Jiang, G., & Luo, Y. (2022). Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis. *Genomics, proteomics & bioinformatics,* 20(5), 850–866.https://doi.org/10.1016/j.gpb.2022.11.003
 
-Link to Video
+# Link to Video
 https://www.linkedin.com/posts/pascalonaho_bioinformatics-machinelearninginbioinformatics-activity-7237877574293434368-0JX_?utm_source=combined_share_message&utm_medium=ios_app
 
 
