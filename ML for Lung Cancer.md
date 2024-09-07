@@ -12,7 +12,9 @@ The authors also noted limitations, highlighting that these algorithms are not u
 ## Conclusion
 In conclusion, the authors tell its readers that in order to effectively diagnose, treat, and prevent a disease like lung cancer, large datasets from existing and developing imaging and sequencing techniques would need to be obtained. However, the data required is often so large that it would be impractical to use conventional methods for analyzing these datasets, and machine learning, instead, can go a long way in doing this job. They do this by reviewing several Machine Learning methods used in handling large datasets for the diagnosis, treatment, prognostics, and prevention of Lung Cancer.  
 ## References
-Li, Y., Wu, X., Yang, P., Jiang, G., & Luo, Y. (2022). Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis. *Genomics, proteomics & bioinformatics,* 20(5), 850–866. https://doi.org/10.1016/j.gpb.2022.11.003
+Li, Y., Wu, X., Yang, P., Jiang, G., & Luo, Y. (2022). Machine Learning for Lung Cancer Diagnosis, Treatment, and Prognosis. *Genomics, proteomics & bioinformatics,* 20(5), 850–866.https://doi.org/10.1016/j.gpb.2022.11.003.
+## Video Link
+https://www.linkedin.com/posts/pascalonaho_bioinformatics-machinelearninginbioinformatics-activity-7237877574293434368-0JX_?utm_source=combined_share_message&utm_medium=ios_app
 
 
 
